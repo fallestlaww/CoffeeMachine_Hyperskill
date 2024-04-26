@@ -82,5 +82,5 @@ The method, the creation of which is essential to the execution of the project, 
 
 As for me, there is no point in adding more code, but if you want - you have every right to do so, if you find bugs - let me know, I will be happy to fix everything
 
-My telegram: [@sunshineqqw](https://t.me/sunshineqqw)
+My telegram: [@sunshineqqw](https://t.me/sunshineqqw)  
 Link for this repository: https://github.com/fallestlaww/CoffeeMachine_Hyperskill.git
