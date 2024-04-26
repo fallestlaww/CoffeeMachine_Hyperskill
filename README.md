@@ -26,8 +26,6 @@ In my code, the values of these fields are equivalent to zero and input is possi
 
 ![](.README_images/80c4092a.png )
 
-![]()
-
 #### Method run()
 
 ![](.README_images/6035851c.png )
