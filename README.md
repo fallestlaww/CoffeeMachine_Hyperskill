@@ -5,7 +5,7 @@ Idea and tasks for this project I took [here ](https://hyperskill.org/study-plan
 
 ### Attention!
 
-The logic of the code is slightly added and improved by me, in order to improve the work of the project and the UX
+The logic of the code is slightly added and improved by me, in order to improve the work of the project and the UX.  
 For each described method or class, I will write whether this method is important for the successful completion of the project or not
 
 ## Code explanation
