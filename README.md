@@ -1,7 +1,7 @@
 # Coffee Machine from Hyperskill
 
 This project is created to help those beginners who chose the "Coffee machine" project for themselves and want to understand the logic of the code for the project  
-Idea and tasks for this project I took [here](https://hyperskill.org/study-plan).
+Idea and tasks for this project I took [here](https://hyperskill.org/projects/33).
 
 ### Attention!
 
